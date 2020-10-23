@@ -1,6 +1,7 @@
 /.kube-secrets
 /tmp
 /local
+/bin
 /dev
 **/dev
 
